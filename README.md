@@ -7,17 +7,6 @@ Bem-vindo ao repositório **Exercício ES6**! Este repositório contém exercíc
 - **Exemplos Práticos**: Código de exemplo para demonstrar os novos recursos do JavaScript ES6.
 - **Exercícios**: Atividades práticas para reforçar o aprendizado.
 
-## Linguagem Utilizada
-
-```javascript
-// Exemplos e exercícios em JavaScript ES6
-let exemplo = 'Isso é um exemplo';
-const constante = 'Isso é uma constante';
-```
-
-Explore os arquivos do repositório para começar a praticar e aprender mais sobre JavaScript ES6!
-
----
 
 **Repositório:** [Exercício ES6](https://github.com/RodrigoRiRocha/exercicio_es6)
 **Autor:** [Rodrigo Ri Rocha](https://github.com/RodrigoRiRocha)
